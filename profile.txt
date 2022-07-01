@@ -1,2 +1,1 @@
-AccessKeyID = AKIAUVPTE2SR6OMLXMPS
-SecretAccessKey = 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
+
